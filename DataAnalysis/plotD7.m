@@ -1,16 +1,6 @@
 % Order: specify the order of cholesterol, cholesterol-d7, 7-DHC, and
 % 7-DHC-d7 by an array of the corresponding mod(ScanNo, TotalPrecursorNum)
 % values
-% -------------------------------------------------------------------------
-% Example: for data acquired on April 3, 2023:
-% ccc;
-% h = figure(1); h.Position = [300, 200, 600, 350]; h.PaperSize = [25, 15];
-% plotD7("A2.mzXML", 4, [2, 0, 1, 3], h, 0, [0, 5], 1, 'r');
-% plotD7("B2.mzXML", 4, [2, 0, 1, 3], h, -0.092, [0, 5], 1, 'k');
-% h = figure(2); h.Position = [300, 200, 600, 350]; h.PaperSize = [25, 15];
-% plotD7("A3.mzXML", 4, [2, 0, 1, 3], h, -0.154, [0, 5], 1, 'r');
-% plotD7("B3.mzXML", 4, [2, 0, 1, 3], h, 0, [0, 5], 1.5, 'k');
-% subplot(2, 1, 2); ylim([0, 30000]);
 function plotD7(Filepath, TotalPrecursorNum, Order, ...
     FigureHandle, XOffSet, XLim, YNormalizationFactor, Color)
     %% Parameter setting

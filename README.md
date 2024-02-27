@@ -1,7 +1,7 @@
 # LC-MS-MS
 This depository stores operation guidance for LC-MS/MS using the Thermo Scientific Vanquish UHPLC -- TSQ Altis systems and a custom data analysis toolkit.
 
-# LC flow rate
+# Flow rate
 When setting up a LC-MS/MS run, make sure that TSQ Altis (Figure 2) is corrected informed of the LC flow rate (Figure 1).
 
 <p align="center">

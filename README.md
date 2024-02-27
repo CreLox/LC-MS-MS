@@ -10,6 +10,6 @@ When setting up a LC-MS/MS run, make sure that TSQ Altis (Figure 2) is corrected
 </p>
 <br>
 <p align="center">
-  <img width="270" alt="image" src="https://raw.githubusercontent.com/CreLox/LC-MS-MS/main/assets/TSQAltisFlowRate.png"><br>
+  <img width="360" alt="image" src="https://raw.githubusercontent.com/CreLox/LC-MS-MS/main/assets/TSQAltisFlowRate.png"><br>
   Figure 2: LC flow rate fed to TSQ Altis (ion source properties).
 </p>

@@ -1,4 +1,4 @@
-# Flow rate
+## Flow rate
 When setting up an LC-MS/MS run, make sure that TSQ Altis (Figure 2) is correctly informed of the LC flow rate (Figure 1).
 
 <p align="center">

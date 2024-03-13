@@ -8,5 +8,5 @@ When setting up an LC-MS/MS run, make sure that TSQ Altis (Figure 2) is correctl
 <br>
 <p align="center">
   <img width="360" alt="image" src="https://raw.githubusercontent.com/CreLox/LC-MS-MS/main/assets/TSQAltisFlowRate.png"><br>
-  <b>Figure 2.</b> LC flow rate fed to TSQ Altis (ion source properties).
+  <b>Figure 2.</b> LC flow rate fed to TSQ Altis (ion source properties) in Xcalibur Instrument Setup (NOT in FreeStyle).
 </p>

@@ -13,3 +13,11 @@ When setting up an LC-MS/MS run, make sure that TSQ Altis (Figure 2) is correctl
   <img width="360" alt="image" src="https://raw.githubusercontent.com/CreLox/LC-MS-MS/main/assets/TSQAltisFlowRate.png"><br>
   <b>Figure 2.</b> LC flow rate fed to TSQ Altis (ion source properties) in Xcalibur Instrument Setup (NOT in FreeStyle).
 </p>
+
+## Vanquish pump
+When an LC-MS/MS sequence finishes running, the vanquish pump should be stopped manually: go to "Direct Control", click "Take Control" at the top, and uncheck the "Flow" box under the "Vanquish Pump" tab.
+
+<p align="center">
+  <img width="400" alt="image" src="https://raw.githubusercontent.com/CreLox/LC-MS-MS/main/assets/StopVanquishPumpAfterARun.png"><br>
+  <b>Figure 3.</b> Stopping the vanquish pump.
+</p>
